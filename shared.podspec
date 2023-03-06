@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'shared'
-    spec.version                  = 'master'
+    spec.version                  = '1.0'
     spec.homepage = 'https://www.cocoapods.org'
     spec.source = { :git => "https://github.com/schech1/TestPod", :tag => "{spec.version}" }
     spec.authors = 'chris'
